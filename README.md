@@ -1,30 +1,34 @@
 # I'm Craig <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=CraigKettleman&show_icons=true&theme=tokyonight" />
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <img align="right" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CraigKettleman&show_icons=true&theme=tokyonight" />
+</a>
 
-- 🌱 I'm currently learning **LLM Agents**
-- 🎓 Currently studying in **Ya'an, Sichuan, China**
-- 🤖 Interested in **AI Agents, LLMs and Open Source**
-- 💬 Ask me about **LLM Agents and my projects**
-- 📫 Reach me at **craigmail.ai@gmail.com**
+* 🌱 I’m currently learning **LLM agent**
 
----
+* 👯 Currently a student in **Ya'an, China**
 
-## 🚀 Tech Stack
+* 🤔 I love **Open Source, enjoy Everything**
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot)
-![LangChain](https://img.shields.io/badge/LangChain-000000)
+* 💬 Ask me about LLM Agent and my projects
 
----
+* 📫 How to reach me: **[craigmail.ai@gmail.com](mailto:craigmail.ai@gmail.com)**
 
-## 📈 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CraigKettleman&layout=compact&theme=tokyonight)
+* [![visitors](https://visitor-badge.laobi.icu/badge?page_id=CraigKettleman.CraigKettleman)](https://github.com/CraigKettleman)
 
----
+<div align="center">
 
-## 🐍 Contribution Snake
+<!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 
 <img src="https://raw.githubusercontent.com/CraigKettleman/CraigKettleman/output/github-snake-dark.svg" />
+
+</div>
+
+<!-- <img src="https://cdn.jsdelivr.net/gh/CraigKettleman/CraigKettleman/profile-3d-contrib/profile-night-rainbow.svg" />
+
+# About My Github
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CraigKettleman)](https://github.com/CraigKettleman/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CraigKettleman&show_icons=true&theme=tokyonight) -->

@@ -1,5 +1,14 @@
 # I'm Craig <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Agent+%7C+Multi-Agent+Systems+%7C+LLMs;Exploring+Intelligent+Systems+Every+Day..." alt="Typing SVG" />
+</p>
+
+---
+
+
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
   <img align="right" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CraigKettleman&show_icons=true&theme=tokyonight" />
 </a>

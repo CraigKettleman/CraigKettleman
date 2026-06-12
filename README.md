@@ -15,11 +15,11 @@
 
 * 🌱 I’m currently learning **LLM agent**
 
-* 👯 Currently a student in **Ya'an, China**
+* 👯 Currently a first-year student in **Ya'an, China**
 
 * 🤔 I love **Open Source, enjoy Everything**
 
-* 💬 Ask me about LLM Agent and my projects
+* 💬 Tell me about LLM Agent and my projects
 
 * 📫 How to reach me: **[craigmail.ai@gmail.com](mailto:craigmail.ai@gmail.com)**
 
